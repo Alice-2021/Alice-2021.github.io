@@ -1,6 +1,15 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title> </title>
-
+body {
+	background-color: lightsteeelblue;
+}
+	B1C9EE
 	B1C9EE - Light Steel Blue
+	1B4332 - Brunswick Green
+	8B8C89 - Battleship Grey
+	<link href="style.css" type="text/css" rel="stylesheet" />
+
+	font-family: 'Bad Script', cursive;
+
+	h1 {
+		color: #8B8C89;
+		padding: 10px 15px;
+	}
